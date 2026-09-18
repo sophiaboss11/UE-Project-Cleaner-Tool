@@ -8,5 +8,5 @@
 
 
 ------
-development by Sophia Boss
+Sophia Boss
 sophia.kathryn.boss@gmail.com
